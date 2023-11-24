@@ -93,7 +93,7 @@ blood cell classification in settings such as a highthrouput screening or blood 
 ![Alt text](figures/Image2.png)
 ## Authors
 
-Romain Roure
-Rami Louati
-Romain Duhomme
-Diego Carriel Lopez
+- Romain Roure
+- Rami Louati
+- Romain Duhomme
+- Diego Carriel Lopez
