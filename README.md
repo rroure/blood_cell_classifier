@@ -94,6 +94,6 @@ blood cell classification in settings such as a highthrouput screening or blood 
 ## Authors
 
 Romain Roure
-Rami 
-Romain
+Rami Louati
+Romain Duhomme
 Diego Carriel Lopez
